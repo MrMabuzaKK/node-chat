@@ -1,0 +1,11 @@
+{
+  "name": "chat",
+  "version": "1.0.0",
+  "description": "This project allows to setup fullstack chat for any frontend/backend combination!",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js"
+  },
+  "author": "Kulani Mabuza",
+  "license": "ISC"
+}
